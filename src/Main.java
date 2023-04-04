@@ -11,6 +11,7 @@ public class Main {
         int min = findMinFromArr(arr, n);
 
         System.out.println(min);
+        double findAvg = findAvFromArr(arr, n);
     }
 
     public static int findMinFromArr(int[] arr, int n){
@@ -21,6 +22,17 @@ public class Main {
             return Math.min(min, arr[n-1]);
         }
     }
+    public static double findAvFromArr(int[] arr, int n) {
+        double sum = 0;
+        for (int i = 0; i < arr.length; i++) {
+            sum = sum + arr[i];
+        }
+        double average = 0;
+        average = sum / arr.length;
+        return average;
+    }
+
+
 
 
 
