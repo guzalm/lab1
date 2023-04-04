@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3763f40b-96ae-48f5-9f7b-1ebaede4488b" name="Changes" comment="find min from arr&#10;finding average of nums">
+    <list default="true" id="3763f40b-96ae-48f5-9f7b-1ebaede4488b" name="Changes" comment="checking n for 'prime' number">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +62,7 @@
       <option name="presentableId" value="Default" />
       <updated>1680575780257</updated>
       <workItem from="1680575781408" duration="1522000" />
-      <workItem from="1680603021887" duration="1189000" />
+      <workItem from="1680603021887" duration="1369000" />
     </task>
     <task id="LOCAL-00001" summary="find min from arr">
       <created>1680575999303</created>
@@ -79,7 +78,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680576399006</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="checking n for 'prime' number">
+      <created>1680604288080</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1680604288080</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -112,6 +118,7 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="find min from arr" />
     <MESSAGE value="find min from arr&#10;finding average of nums" />
-    <option name="LAST_COMMIT_MESSAGE" value="find min from arr&#10;finding average of nums" />
+    <MESSAGE value="checking n for 'prime' number" />
+    <option name="LAST_COMMIT_MESSAGE" value="checking n for 'prime' number" />
   </component>
 </project>
