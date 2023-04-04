@@ -12,6 +12,7 @@ public class Main {
 
         System.out.println(min);
         double findAvg = findAvFromArr(arr, n);
+        System.out.println(findAvg);
     }
 
     public static int findMinFromArr(int[] arr, int n){
