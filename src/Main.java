@@ -24,6 +24,12 @@ public class Main {
         System.out.println(" n-th element in Fibonacci sequence is: " + findFib);
         int findSqrt = sqrt(a, n);
         System.out.println("a^n: " + findSqrt);
+        int[] reversedArr = reverse(arr, n);
+        System.out.print("Reversed array: ");
+        for (int i = 0; i < reversedArr.length; i++) {
+            System.out.print(reversedArr[i] + " ");
+        }
+
 
 
 
@@ -101,10 +107,13 @@ public class Main {
         }
         return res;
     }
-
-
-
-
+    public static int[] reverse(int arr[], int n) {
+        int[] reversedArr = new int[n];
+        for (int i = 0; i < n; i++) {
+            reversedArr[i] = arr[n - 1 - i];
+        }
+        return reversedArr;
+    }
 
 }
 
