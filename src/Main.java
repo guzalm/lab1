@@ -29,6 +29,16 @@ public class Main {
         for (int i = 0; i < reversedArr.length; i++) {
             System.out.print(reversedArr[i] + " ");
         }
+        Scanner sca = new Scanner(System.in);
+        System.out.print("\n"+"Enter a string to check is all consists of digits: ");
+        String s = sca.nextLine();
+        boolean isAllDigits = isAllDigits(s);
+        if (isAllDigits) {
+            System.out.println("yes");
+        } else {
+            System.out.println("no");
+        }
+
 
 
 
@@ -113,6 +123,15 @@ public class Main {
             reversedArr[i] = arr[n - 1 - i];
         }
         return reversedArr;
+    }
+
+    public static boolean isAllDigits(String s) {
+        for (int i = 0; i < s.length(); i++) {
+            if (!Character.isDigit(s.charAt(i))) {
+                return false;
+            }
+        }
+        return true;
     }
 
 }
