@@ -1,2 +1,2 @@
-problem 2.   Given a number “n” and an array of “n” elements,
-we should write the function that returns average of them. In main we have a part of code to input n and also elements of array. Then in function findAvFromArr we solve the sum of elements, after by dividing sum to length of array(number of elements) we found average. By returning average we get answer due to part of code in public static void main, where we initialize new var findAve to call our function.
+problem 3. Given a number “n”, we should write the function for checking
+whether“n” is prime. Here I used conditions which means that "n" could not be less than 2. If there is no problem, function continues working. Then I initialize "divisor=2" to check "n" for prime or composite number. If n divides to 2 without modulus it is prime. 
