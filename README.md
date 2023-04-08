@@ -1,2 +1,2 @@
-problem 1. in the first problem we are given a number “n” and an array of “n” elements,
-we should write the function that returns minimum of them. In main we have a scanner which help us to input our "n". In function "findMinFromArr" I used Math min() method to find min.
+problem 2.   Given a number “n” and an array of “n” elements,
+we should write the function that returns average of them. In main we have a part of code to input n and also elements of array. Then in function findAvFromArr we solve the sum of elements, after by dividing sum to length of array(number of elements) we found average. By returning average we get answer due to part of code in public static void main, where we initialize new var findAve to call our function.
