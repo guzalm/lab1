@@ -1,2 +1,3 @@
-problem 3. Given a number “n”, we should write the function for checking
-whether“n” is prime. Here I used conditions which means that "n" could not be less than 2. If there is no problem, function continues working. Then I initialize "divisor=2" to check "n" for prime or composite number. If n divides to 2 without modulus it is prime. 
+problem 4. Given a number “n”, should write the program using recursion for
+finding “n!”. There was created new function factorial() where used recursion to get the result (n * factorial(n - 1)). By returning factorial and creating new variable as findFac in main we get final result.
+ 
