@@ -1,5 +1,7 @@
-problem 7. Given a number “n” and an array of “n” elements,
-should write the program that returns given array in reverse order
-without using array data structure. From problem 1 where we found min from array, we have entered elements to array.
-Here we can just reverse that array. Here we work with address of elements in array.
-By this arr[n - 1 - i] we can change places of elements.
+problem 8. Given a string “s”, should write the function for checking
+whether “s” is all consists of digits. so, it means we need new inputted string
+with nums and letters. I add new scanner to get input in main part.
+After in isAllDigits() function by using isDigit() method check whether the 
+given character is a digit or not and charAt() method which
+returns the character at the specified index in a string (!Character.isDigit(s.charAt(i)))
+I can check entered string.

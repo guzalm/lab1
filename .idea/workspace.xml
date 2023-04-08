@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3763f40b-96ae-48f5-9f7b-1ebaede4488b" name="Changes" comment="problem 6">
+    <list default="true" id="3763f40b-96ae-48f5-9f7b-1ebaede4488b" name="Changes" comment="problem 7">
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -82,7 +82,7 @@
       <workItem from="1680761089951" duration="116000" />
       <workItem from="1680862581501" duration="1833000" />
       <workItem from="1680895270242" duration="918000" />
-      <workItem from="1680922464000" duration="4863000" />
+      <workItem from="1680922464000" duration="5175000" />
     </task>
     <task id="LOCAL-00001" summary="find min from arr">
       <created>1680575999303</created>
@@ -210,7 +210,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680928266416</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="problem 7">
+      <created>1680928579288</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1680928579288</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -256,7 +263,8 @@
     <MESSAGE value="problem 4" />
     <MESSAGE value="problem 5" />
     <MESSAGE value="problem 6" />
-    <option name="LAST_COMMIT_MESSAGE" value="problem 6" />
+    <MESSAGE value="problem 7" />
+    <option name="LAST_COMMIT_MESSAGE" value="problem 7" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
