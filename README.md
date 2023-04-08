@@ -1,3 +1,5 @@
-problem 4. Given a number “n”, should write the program using recursion for
-finding “n!”. There was created new function factorial() where used recursion to get the result (n * factorial(n - 1)). By returning factorial and creating new variable as findFac in main we get final result.
+problem 5. Given a number “n”, should write the function for finding n-th
+elements in Fibonacci sequence using recursion. Was created function fibonacci(). 
+By recursion if n is not 1, using formula fibonacci(n-1) + fibonacci(n-2)
+solves this problem. In main created variable findFib to call function.
  
