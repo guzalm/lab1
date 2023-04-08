@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3763f40b-96ae-48f5-9f7b-1ebaede4488b" name="Changes" comment="problem 2">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="3763f40b-96ae-48f5-9f7b-1ebaede4488b" name="Changes" comment="problem 4">
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -83,7 +82,7 @@
       <workItem from="1680761089951" duration="116000" />
       <workItem from="1680862581501" duration="1833000" />
       <workItem from="1680895270242" duration="918000" />
-      <workItem from="1680922464000" duration="3615000" />
+      <workItem from="1680922464000" duration="4071000" />
     </task>
     <task id="LOCAL-00001" summary="find min from arr">
       <created>1680575999303</created>
@@ -176,7 +175,21 @@
       <option name="project" value="LOCAL" />
       <updated>1680926387533</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="problem 3">
+      <created>1680927172447</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1680927172447</updated>
+    </task>
+    <task id="LOCAL-00015" summary="problem 4">
+      <created>1680927489222</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1680927489222</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -218,7 +231,9 @@
     <MESSAGE value="test3" />
     <MESSAGE value="problem 1" />
     <MESSAGE value="problem 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="problem 2" />
+    <MESSAGE value="problem 3" />
+    <MESSAGE value="problem 4" />
+    <option name="LAST_COMMIT_MESSAGE" value="problem 4" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
