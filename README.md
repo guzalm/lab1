@@ -1,5 +1,5 @@
-problem 6. Given numbers “a” and “n”, write the function that
-returns “a^n
-”. Here is new function sqrt(). There was created variable res to use recursion and write formula to find sqrt of n(res *= a).
-After return statement we back to main. There is part of code which 
-calls our function sqrt(), and print out our result.
+problem 7. Given a number “n” and an array of “n” elements,
+should write the program that returns given array in reverse order
+without using array data structure. From problem 1 where we found min from array, we have entered elements to array.
+Here we can just reverse that array. Here we work with address of elements in array.
+By this arr[n - 1 - i] we can change places of elements.
