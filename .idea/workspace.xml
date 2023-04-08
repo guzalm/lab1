@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3763f40b-96ae-48f5-9f7b-1ebaede4488b" name="Changes" comment="checking is string all consist of digits. Here we should input string which consist numbers and letters">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="3763f40b-96ae-48f5-9f7b-1ebaede4488b" name="Changes" comment="test2" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -77,7 +75,7 @@
       <workItem from="1680761089951" duration="116000" />
       <workItem from="1680862581501" duration="1833000" />
       <workItem from="1680895270242" duration="918000" />
-      <workItem from="1680922464000" duration="1506000" />
+      <workItem from="1680922464000" duration="1712000" />
     </task>
     <task id="LOCAL-00001" summary="find min from arr">
       <created>1680575999303</created>
@@ -135,7 +133,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680895895502</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="test2">
+      <created>1680925000559</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1680925000559</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -173,7 +178,8 @@
     <MESSAGE value="finding the n-th element in Fibonacci sequence" />
     <MESSAGE value="finding the reverse of array" />
     <MESSAGE value="checking is string all consist of digits. Here we should input string which consist numbers and letters" />
-    <option name="LAST_COMMIT_MESSAGE" value="checking is string all consist of digits. Here we should input string which consist numbers and letters" />
+    <MESSAGE value="test2" />
+    <option name="LAST_COMMIT_MESSAGE" value="test2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
