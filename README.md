@@ -1,2 +1,2 @@
-rfrefwefwegf
-egwggewrgr
+problem 1. in the first problem we are given a number “n” and an array of “n” elements,
+we should write the function that returns minimum of them. In main we have a scanner which help us to input our "n". In function "findMinFromArr" I used Math min() method to find min.
