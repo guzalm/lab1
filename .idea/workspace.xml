@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3763f40b-96ae-48f5-9f7b-1ebaede4488b" name="Changes" comment="problem 9">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,7 +83,7 @@
       <workItem from="1680862581501" duration="1833000" />
       <workItem from="1680895270242" duration="918000" />
       <workItem from="1680922464000" duration="5630000" />
-      <workItem from="1681033970932" duration="713000" />
+      <workItem from="1681033970932" duration="1003000" />
     </task>
     <task id="LOCAL-00001" summary="find min from arr">
       <created>1680575999303</created>
@@ -239,7 +239,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681034465198</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="problem 9">
+      <created>1681034725215</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1681034725215</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
