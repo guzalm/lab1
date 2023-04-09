@@ -1,7 +1,13 @@
-problem 8. Given a string “s”, should write the function for checking
-whether “s” is all consists of digits. so, it means we need new inputted string
-with nums and letters. I add new scanner to get input in main part.
-After in isAllDigits() function by using isDigit() method check whether the 
-given character is a digit or not and charAt() method which
-returns the character at the specified index in a string (!Character.isDigit(s.charAt(i)))
-I can check entered string.
+problem 9. Given numbers“n” and “k”,write the program that
+finds Cn
+k
+(binomial coefficient) using formulaCn
+k=Cn−1
+k−1
++Cn−1
+k where Cn
+0=Cn
+n=1. To solve, I initialized variable binomal to use recursive.
+ Also, there is a formula to solve it findBinCoeff
+(a - 1, n - 1) + findBinCoeff(a - 1, n); At the end I returned.
+Then In main I added variable binomal to catt the function.
